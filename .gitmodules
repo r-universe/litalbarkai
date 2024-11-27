@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "redatam"]
+	path = redatam
+	url = https://github.com/litalbarkai/open-redatam
+	subdir = rpkg
